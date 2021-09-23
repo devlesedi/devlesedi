@@ -9,11 +9,11 @@
 
 ## ✨ Technologies
 
--   [ ] React / React Native / Redux
--   [ ] Serverless / NextJS
--   [ ] Agile / JIRA
--   [ ] AWS / Amplify
--   [ ] Firebase
+-   [x] React / React Native / Redux
+-   [x] Serverless / NextJS
+-   [x] Agile / JIRA
+-   [x] AWS / Amplify
+-   [x] Firebase
 
 ## 💻 Hackathons
 
