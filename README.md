@@ -20,4 +20,4 @@
 - 3rd place finish at 2019 BOFINET / Global Expo Hackathon.
 - 1st runner-up at 2019 BIH Hackathon.
 - 1st runner-up at 2019 Zoo Hackathon hosted by U.S. Embassy.
-- Won P15,000 at 2021 SmartBots Hackathon hosted by Govt. of Botswana.
+- UI/UX winner at 2021 SmartBots Hackathon hosted by Govt. of Botswana.
