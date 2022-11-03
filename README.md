@@ -1,7 +1,7 @@
 ### About me 👋
 
 - 🔭 I’m from Botswana
-- 🌱 I’m currently learning Amplify
+- 🌱 I’m currently learning Python, Phoenix & Elixir
 - 👯 I’m looking to collaborate on remote projects
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about chatbots and mobile apps
