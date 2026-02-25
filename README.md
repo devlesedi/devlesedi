@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on remote projects
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about chatbots and mobile apps
-- 📫 How to reach me: lesedi.hobs@gmail.com
 
 ## ✨ Technologies
 
