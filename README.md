@@ -22,7 +22,7 @@
 - [x] Phoenix & Elixir
 - [x] AWS / Amplify
 - [x] Google Cloud
-- [x] Firebase
+- [x] Docker / Kubernetes
 
 **Ways of Working**
 - [x] Agile / JIRA
